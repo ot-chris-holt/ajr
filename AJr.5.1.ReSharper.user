@@ -1,0 +1,95 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="83680AD3-053E-40D5-886C-1E3E1577741C/d:SingletonTypes/f:ShippingMethod.cs" caret="13" fromTop="0" />
+      <File id="83680AD3-053E-40D5-886C-1E3E1577741C/d:AggregateTypes/f:Product.cs" caret="65" fromTop="2" />
+      <File id="83680AD3-053E-40D5-886C-1E3E1577741C/d:SingletonTypes/f:Category.cs" caret="13" fromTop="0" />
+      <File id="83680AD3-053E-40D5-886C-1E3E1577741C/d:AggregateTypes/f:Order.cs" caret="48" fromTop="1" />
+      <File id="83680AD3-053E-40D5-886C-1E3E1577741C/d:SingletonTypes/f:Review.cs" caret="371" fromTop="12" />
+      <File id="83680AD3-053E-40D5-886C-1E3E1577741C/d:SingletonTypes/f:Address.cs" caret="0" fromTop="0" />
+      <File id="83680AD3-053E-40D5-886C-1E3E1577741C/d:AggregateTypes/f:Customer.cs" caret="136" fromTop="5" />
+      <File id="83680AD3-053E-40D5-886C-1E3E1577741C/d:AggregateTypes/f:OrderLineItem.cs" caret="206" fromTop="6" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="83680AD3-053E-40D5-886C-1E3E1577741C/d:SingletonTypes/f:Address.cs" caret="358" fromTop="16" />
+      <File id="83680AD3-053E-40D5-886C-1E3E1577741C/d:AggregateTypes/f:Customer.cs" caret="143" fromTop="11" />
+      <File id="83680AD3-053E-40D5-886C-1E3E1577741C/d:AggregateTypes/f:Customer.cs" caret="108" fromTop="1" />
+      <File id="83680AD3-053E-40D5-886C-1E3E1577741C/d:AggregateTypes/f:Customer.cs" caret="561" fromTop="18" />
+      <File id="83680AD3-053E-40D5-886C-1E3E1577741C/d:SingletonTypes/f:Address.cs" caret="319" fromTop="14" />
+      <File id="83680AD3-053E-40D5-886C-1E3E1577741C/d:SingletonTypes/f:Category.cs" caret="284" fromTop="13" />
+      <File id="83680AD3-053E-40D5-886C-1E3E1577741C/d:AggregateTypes/f:Product.cs" caret="532" fromTop="16" />
+      <File id="83680AD3-053E-40D5-886C-1E3E1577741C/d:SingletonTypes/f:Category.cs" caret="255" fromTop="12" />
+      <File id="83680AD3-053E-40D5-886C-1E3E1577741C/d:AggregateTypes/f:Order.cs" caret="672" fromTop="15" />
+      <File id="83680AD3-053E-40D5-886C-1E3E1577741C/d:AggregateTypes/f:OrderLineItem.cs" caret="254" fromTop="11" />
+      <File id="83680AD3-053E-40D5-886C-1E3E1577741C/d:AggregateTypes/f:Product.cs" caret="531" fromTop="17" />
+      <File id="83680AD3-053E-40D5-886C-1E3E1577741C/d:AggregateTypes/f:Product.cs" caret="177" fromTop="8" />
+      <File id="83680AD3-053E-40D5-886C-1E3E1577741C/d:SingletonTypes/f:Category.cs" caret="68" fromTop="7" />
+      <File id="83680AD3-053E-40D5-886C-1E3E1577741C/d:AggregateTypes/f:Order.cs" caret="137" fromTop="8" />
+      <File id="83680AD3-053E-40D5-886C-1E3E1577741C/d:SingletonTypes/f:Review.cs" caret="68" fromTop="7" />
+      <File id="83680AD3-053E-40D5-886C-1E3E1577741C/d:AggregateTypes/f:Customer.cs" caret="550" fromTop="19" />
+      <File id="83680AD3-053E-40D5-886C-1E3E1577741C/d:AggregateTypes/f:Customer.cs" caret="394" fromTop="16" />
+      <File id="83680AD3-053E-40D5-886C-1E3E1577741C/d:SingletonTypes/f:Review.cs" caret="367" fromTop="14" />
+      <File id="83680AD3-053E-40D5-886C-1E3E1577741C/d:AggregateTypes/f:Order.cs" caret="531" fromTop="17" />
+      <File id="83680AD3-053E-40D5-886C-1E3E1577741C/d:SingletonTypes/f:ShippingMethod.cs" caret="310" fromTop="13" />
+      <File id="83680AD3-053E-40D5-886C-1E3E1577741C/d:SingletonTypes/f:ShippingMethod.cs" caret="13" fromTop="0" />
+      <File id="83680AD3-053E-40D5-886C-1E3E1577741C/d:SingletonTypes/f:Address.cs" caret="0" fromTop="0" />
+      <File id="83680AD3-053E-40D5-886C-1E3E1577741C/d:AggregateTypes/f:Customer.cs" caret="0" fromTop="0" />
+      <File id="83680AD3-053E-40D5-886C-1E3E1577741C/d:SingletonTypes/f:Category.cs" caret="13" fromTop="0" />
+      <File id="83680AD3-053E-40D5-886C-1E3E1577741C/d:AggregateTypes/f:Order.cs" caret="48" fromTop="1" />
+      <File id="83680AD3-053E-40D5-886C-1E3E1577741C/d:AggregateTypes/f:OrderLineItem.cs" caret="0" fromTop="0" />
+      <File id="83680AD3-053E-40D5-886C-1E3E1577741C/d:SingletonTypes/f:Review.cs" caret="13" fromTop="0" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="string" priority="42" />
+      <Item value="private" priority="12" />
+      <Item value="enum" priority="2" />
+      <Item value="List" priority="4" />
+      <Item value="using" priority="2" />
+      <Item value="prop" priority="47" />
+      <Item value="public" priority="12" />
+      <Item value="String`0" priority="1" />
+      <Item value="int" priority="1" />
+      <Item value="Enums" priority="1" />
+      <Item value="Enums`0" priority="0" />
+      <Item value="AJr.Domain" priority="1" />
+      <Item value="SingletonTypes" priority="3" />
+      <Item value="Address`0" priority="0" />
+      <Item value="UriHostNameType`0" priority="0" />
+      <Item value="DateTime`0" priority="3" />
+      <Item value="decimal" priority="3" />
+      <Item value="ShippingMethod`0" priority="0" />
+      <Item value="AggregateTypes" priority="0" />
+      <Item value="Product`0" priority="0" />
+      <Item value="readonly" priority="0" />
+      <Item value="return" priority="0" />
+      <Item value="Quantity" priority="0" />
+      <Item value="SellPrice" priority="0" />
+      <Item value="Review`0" priority="0" />
+      <Item value="Order`0" priority="0" />
+      <Item value="Customer`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@AJr.Domain.Enums.Enums">
+      <Item value="AddressType`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

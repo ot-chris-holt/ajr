@@ -1,0 +1,5 @@
+c:\Projects\dsmith\AJr\AJr.Domain\obj\Debug\ResolveAssemblyReference.cache
+c:\Projects\dsmith\AJr\AJr.Domain\bin\Debug\AJr.Domain.dll
+c:\Projects\dsmith\AJr\AJr.Domain\bin\Debug\AJr.Domain.pdb
+c:\Projects\dsmith\AJr\AJr.Domain\obj\Debug\AJr.Domain.dll
+c:\Projects\dsmith\AJr\AJr.Domain\obj\Debug\AJr.Domain.pdb
