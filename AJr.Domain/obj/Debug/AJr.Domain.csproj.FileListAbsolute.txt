@@ -3,3 +3,12 @@ c:\Projects\dsmith\AJr\AJr.Domain\bin\Debug\AJr.Domain.dll
 c:\Projects\dsmith\AJr\AJr.Domain\bin\Debug\AJr.Domain.pdb
 c:\Projects\dsmith\AJr\AJr.Domain\obj\Debug\AJr.Domain.dll
 c:\Projects\dsmith\AJr\AJr.Domain\obj\Debug\AJr.Domain.pdb
+C:\Projects\dsmith\ajr\AJr.Domain\bin\Debug\Castle.Core.dll
+C:\Projects\dsmith\ajr\AJr.Domain\bin\Debug\FluentNHibernate.dll
+C:\Projects\dsmith\ajr\AJr.Domain\bin\Debug\Iesi.Collections.dll
+C:\Projects\dsmith\ajr\AJr.Domain\bin\Debug\NHibernate.ByteCode.Castle.dll
+C:\Projects\dsmith\ajr\AJr.Domain\bin\Debug\NHibernate.dll
+C:\Projects\dsmith\ajr\AJr.Domain\bin\Debug\Castle.Core.xml
+C:\Projects\dsmith\ajr\AJr.Domain\bin\Debug\FluentNHibernate.pdb
+C:\Projects\dsmith\ajr\AJr.Domain\bin\Debug\Iesi.Collections.pdb
+C:\Projects\dsmith\ajr\AJr.Domain\bin\Debug\NHibernate.ByteCode.Castle.xml
