@@ -1,0 +1,16 @@
+C:\Projects\dsmith\ajr\AJr.Data\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\dsmith\ajr\AJr.Data\bin\Debug\AJr.Data.dll
+C:\Projects\dsmith\ajr\AJr.Data\bin\Debug\AJr.Data.pdb
+C:\Projects\dsmith\ajr\AJr.Data\bin\Debug\AJr.Domain.dll
+C:\Projects\dsmith\ajr\AJr.Data\bin\Debug\Castle.Core.dll
+C:\Projects\dsmith\ajr\AJr.Data\bin\Debug\FluentNHibernate.dll
+C:\Projects\dsmith\ajr\AJr.Data\bin\Debug\Iesi.Collections.dll
+C:\Projects\dsmith\ajr\AJr.Data\bin\Debug\NHibernate.ByteCode.Castle.dll
+C:\Projects\dsmith\ajr\AJr.Data\bin\Debug\NHibernate.dll
+C:\Projects\dsmith\ajr\AJr.Data\bin\Debug\AJr.Domain.pdb
+C:\Projects\dsmith\ajr\AJr.Data\bin\Debug\Castle.Core.xml
+C:\Projects\dsmith\ajr\AJr.Data\bin\Debug\FluentNHibernate.pdb
+C:\Projects\dsmith\ajr\AJr.Data\bin\Debug\Iesi.Collections.pdb
+C:\Projects\dsmith\ajr\AJr.Data\bin\Debug\NHibernate.ByteCode.Castle.xml
+C:\Projects\dsmith\ajr\AJr.Data\obj\Debug\AJr.Data.dll
+C:\Projects\dsmith\ajr\AJr.Data\obj\Debug\AJr.Data.pdb

@@ -1,4 +1,4 @@
 <Modules>
-  <Module PersistentId="52F034CF-46E0-4C23-9501-C80D190A1F91" ModuleId="AJr" />
   <Module PersistentId="83680AD3-053E-40D5-886C-1E3E1577741C" ModuleId="AJr.Domain" />
+  <Module PersistentId="1A9AE9F5-5DBE-4677-AD32-271E213BBAF5" ModuleId="AJr.Data" />
 </Modules>
